@@ -12,7 +12,7 @@
 
 ***
 
-https://github.com/gosdn2297/TIL/blob/main/java.png **JAVA**
+![자바이미지](https://github.com/gosdn2297/TIL/blob/main/java.png)
 
 
 

@@ -19,8 +19,7 @@
 자바의 정석 하루에 한 챕터 정복!
 
 
-
-* [변수] (https://github.com/gosdn2297/TIL/blob/main/JAVA/Variable_Java.md)
+* [변수](https://github.com/gosdn2297/TIL/blob/main/JAVA/Variable_Java.md)
 * 연산자
 
 

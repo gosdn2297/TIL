@@ -20,7 +20,7 @@
 
 
 * [변수](https://github.com/gosdn2297/TIL/blob/main/JAVA/Variable_Java.md)
-* 연산자
+* [연산자](https://github.com/gosdn2297/TIL/blob/main/JAVA/operator_Java.md)
 
 
 

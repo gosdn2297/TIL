@@ -86,5 +86,30 @@ data type은 기본형과 참조형으로 나눠진다.
 '타입(type)'이 '자료형 (data type)'을 포함하는 것보다 넓은 의미의 용어이므로 굳이 구분하지 않아도 된다. -JAVA의 정석 56페이지-
 
 
+**Chapter 2의 11번(기본형의 종류와 범위)**
+***
+
+
+-> boolean은 1byte
+
+
+-> char는 2byte
+
+
+-> byte는 1byte
+
+
+-> int (4byte)를 기준으로 short (2byte), long (8 byte)
+
+
+-> float은 float
+
+-> double은 float보다 두 배의 크기(8byte)이니깐 double
+
+
+
+
+
+
 
 

@@ -21,6 +21,10 @@
 
 * [변수](https://github.com/gosdn2297/TIL/blob/main/JAVA/Variable_Java.md)
 * [연산자](https://github.com/gosdn2297/TIL/blob/main/JAVA/operator_Java.md)
+* [조건문과반복문](https://github.com/gosdn2297/TIL/blob/main/JAVA/if_Java.md)
+* [배열](https://github.com/gosdn2297/TIL/blob/main/JAVA/array_Java.md)
+* [객체지향(1)](https://github.com/gosdn2297/TIL/blob/main/JAVA/oop1_Java.md)
+* [객체지향(2)](https://github.com/gosdn2297/TIL/blob/main/JAVA/oop2_Java.md) 
 
 
 
